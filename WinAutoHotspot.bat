@@ -1,0 +1,1 @@
+PowerShell.exe -windowstyle hidden -ExecutionPolicy Unrestricted -File "%USERPROFILE%\WinAutoHotspot.ps1" >> "%TEMP%\WinAutoHotspotLog.txt" 2>&1
